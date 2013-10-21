@@ -27,7 +27,7 @@
       <file leaf-file-name="DownLoadHosts.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DownLoadHosts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="0" selection-start="2323" selection-end="2323" vertical-scroll-proportion="1.744403">
+            <state line="13" column="36" selection-start="203" selection-end="203" vertical-scroll-proportion="-1.4813433">
               <folding>
                 <element signature="e#40#61#0" expanded="true" />
               </folding>
@@ -232,7 +232,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39904988" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32818073" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32818073" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -348,7 +348,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DownLoadHosts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="0" selection-start="2323" selection-end="2323" vertical-scroll-proportion="1.744403">
+        <state line="13" column="36" selection-start="203" selection-end="203" vertical-scroll-proportion="-1.4813433">
           <folding>
             <element signature="e#40#61#0" expanded="true" />
           </folding>

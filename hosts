@@ -734,66 +734,129 @@
 
 #SmartHosts END
 
-94.0.61	a.yfrog.com
-208.94.0.61	yfrog.com
-208.94.0.61	www.yfrog.com
-#Twitter END
-
-#Adobe Activation START
-0.0.0.0	3dns-2.adobe.com
-0.0.0.0	3dns-3.adobe.com
-0.0.0.0	activate.adobe.com
-0.0.0.0	activate-sea.adobe.com
-0.0.0.0	activate-sjc0.adobe.com
-0.0.0.0	adobe-dns.adobe.com
-0.0.0.0	adobe-dns-2.adobe.com
-0.0.0.0	adobe-dns-3.adobe.com
-0.0.0.0	ereg.adobe.com
-0.0.0.0	hl2rcv.adobe.com
-0.0.0.0	practivate.adobe.com
-0.0.0.0	wip3.adobe.com
-0.0.0.0	activate.wip3.adobe.com
-0.0.0.0	ereg.wip3.adobe.com
-0.0.0.0	wwis-dubc1-vip60.adobe.com
-#Adobe Activation END
-
-#YouTube START
-203.208.46.206	accounts.youtube.com
-203.208.46.206	apiblog.youtube.com
-203.208.46.206	help.youtube.com
-203.208.46.206	i.ytimg.com
-203.208.46.206	i1.ytimg.com
-203.208.46.206	i2.ytimg.com
-203.208.46.206	i3.ytimg.com
-203.208.46.206	i4.ytimg.com
-203.208.46.206	insight.youtube.com
-203.208.46.206	m.youtube.com
-203.208.46.206	s.ytimg.com
-203.208.46.206	www.youtube.com
-203.208.46.206	ytimg.l.google.com
-#YouTube END
-
-#GitHub START
-204.232.175.78	documentcloud.github.com
-207.97.227.239	github.com
-204.232.175.94	gist.github.com
-107.20.136.254	help.github.com
-207.97.227.252	nodeload.github.com
-199.27.76.130	raw.github.com
-107.22.3.110	status.github.com
-204.232.175.78	training.github.com
-207.97.227.243	www.github.com
-#GitHub END
-
-#Feedly START
-173.194.38.137	feedly-beta.appspot.com
-173.194.72.121	s3.feedly.com
-#Feedly END
-
-#Others START
-38.229.72.14	www.torproject.org
-#Others END
-
-#SmartHosts END
-
-#UPDATE_SMART_HOST_END
+94.0.61	a.yfrog.com
+
+208.94.0.61	yfrog.com
+
+208.94.0.61	www.yfrog.com
+
+#Twitter END
+
+
+
+#Adobe Activation START
+
+0.0.0.0	3dns-2.adobe.com
+
+0.0.0.0	3dns-3.adobe.com
+
+0.0.0.0	activate.adobe.com
+
+0.0.0.0	activate-sea.adobe.com
+
+0.0.0.0	activate-sjc0.adobe.com
+
+0.0.0.0	adobe-dns.adobe.com
+
+0.0.0.0	adobe-dns-2.adobe.com
+
+0.0.0.0	adobe-dns-3.adobe.com
+
+0.0.0.0	ereg.adobe.com
+
+0.0.0.0	hl2rcv.adobe.com
+
+0.0.0.0	practivate.adobe.com
+
+0.0.0.0	wip3.adobe.com
+
+0.0.0.0	activate.wip3.adobe.com
+
+0.0.0.0	ereg.wip3.adobe.com
+
+0.0.0.0	wwis-dubc1-vip60.adobe.com
+
+#Adobe Activation END
+
+
+
+#YouTube START
+
+203.208.46.206	accounts.youtube.com
+
+203.208.46.206	apiblog.youtube.com
+
+203.208.46.206	help.youtube.com
+
+203.208.46.206	i.ytimg.com
+
+203.208.46.206	i1.ytimg.com
+
+203.208.46.206	i2.ytimg.com
+
+203.208.46.206	i3.ytimg.com
+
+203.208.46.206	i4.ytimg.com
+
+203.208.46.206	insight.youtube.com
+
+203.208.46.206	m.youtube.com
+
+203.208.46.206	s.ytimg.com
+
+203.208.46.206	www.youtube.com
+
+203.208.46.206	ytimg.l.google.com
+
+#YouTube END
+
+
+
+#GitHub START
+
+204.232.175.78	documentcloud.github.com
+
+207.97.227.239	github.com
+
+204.232.175.94	gist.github.com
+
+107.20.136.254	help.github.com
+
+207.97.227.252	nodeload.github.com
+
+199.27.76.130	raw.github.com
+
+107.22.3.110	status.github.com
+
+204.232.175.78	training.github.com
+
+207.97.227.243	www.github.com
+
+#GitHub END
+
+
+
+#Feedly START
+
+173.194.38.137	feedly-beta.appspot.com
+
+173.194.72.121	s3.feedly.com
+
+#Feedly END
+
+
+
+#Others START
+
+38.229.72.14	www.torproject.org
+
+#Others END
+
+
+
+#SmartHosts END
+
+
+
+#UPDATE_SMART_HOST_END
+
